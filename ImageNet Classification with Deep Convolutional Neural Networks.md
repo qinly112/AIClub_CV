@@ -2,7 +2,7 @@
 
 
 
-## architecture of the network:	![achitecture](D:\qly\AI Club\AlexNet architecture.PNG)
+## architecture of the network:	![achitecture](Pic\AlexNet architecture.PNG)
 
 - 8 layers: 5 convolutional and three fully-connected
 - use 2 GPUs
@@ -25,7 +25,7 @@ ReLU: $f(x)=max(0,x)$
 
 Local Response Normalization
 
-![](D:\qly\AI Club\Normalization.PNG)
+![](Pic\Normalization.PNG)
 
 
 
